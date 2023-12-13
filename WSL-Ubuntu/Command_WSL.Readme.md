@@ -70,4 +70,11 @@ touch path/file_name.file_type
 vi file_name.file_type
 ```
 Khi gõ câu lệnh này sẽ mở ra trình soạn thảo ngay trên terminal và ở đây chỉ có thể sử dụng bàn phím và không thể sử dụng chuột
+#### Các lệnh để thao tác và soạn thảo ngay trên terminal
+`i`: bật chế độ insert mode có thể ghi file và soạn thảo, khi ở chế độ này nhấn phím `esc`
+``` javascript
+:q // Thoát và không lưu
+:wq! OR :x //Thoát và luu
+```
+ 
 #
