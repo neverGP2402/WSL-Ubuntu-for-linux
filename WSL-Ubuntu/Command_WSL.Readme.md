@@ -71,10 +71,49 @@ vi file_name.file_type
 ```
 Khi gõ câu lệnh này sẽ mở ra trình soạn thảo ngay trên terminal và ở đây chỉ có thể sử dụng bàn phím và không thể sử dụng chuột
 #### Các lệnh để thao tác và soạn thảo ngay trên terminal
-`i`: bật chế độ insert mode có thể ghi file và soạn thảo, khi ở chế độ này nhấn phím `esc`
+- `i`: bật chế độ insert mode có thể ghi file và soạn thảo, khi ở chế độ này nhấn phím `esc`
 ``` javascript
 :q // Thoát và không lưu
 :wq! OR :x //Thoát và luu
 ```
  
-#
+## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+> Free React Admin Dashboard made with Material-UI components and React.
+
+![preview](public/assets/preview.jpg)
+
+| [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
+| ----------------------------------------------------- | :---------------------------------------------------------------- |
+| **6** Demo pages                                      | **50+** demo pages                                                |
+| -                                                     | ✓ Multi-language                                                  |
+| -                                                     | ✓ Dark/Light Mode 🌓                                              |
+| -                                                     | ✓ [More components](https://minimals.cc/components)               |
+| -                                                     | ✓ Next.js version                                                 |
+| -                                                     | ✓ TypeScript version                                              |
+| -                                                     | ✓ Design files (Figma & Sketch)                                   |
+
+## Page demo
+
+- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
+- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
+- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
+- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
+- [Login](https://minimal-kit-react.vercel.app/login)
+- [Not Found](https://minimal-kit-react.vercel.app/404)
+
+## Getting started
+
+- Recommended `node js 16.x` and `npm 6+`. (suggestion v16.15.0)
+- Install dependencies: `npm install` / `yarn install`
+- Start the project: `npm run start` / `yarn start`
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
+
+## Contact us
+
+Email Us: support@minimals.cc
